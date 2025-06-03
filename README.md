@@ -6,8 +6,8 @@ Estudié un ciclo superior en **Desarrollo de Aplicaciones Multiplataforma** mie
 
 ## ⚙️ Habilidades técnicas
 
-- **Lenguajes:** Java, Kotlin, Python, JavaScript.
-- **Frameworks y tecnologías:** Spring Boot (APIs REST), Angular, Express (MEAN Stack), HTML, CSS (Bootstrap, Tailwind CSS).
+- **Lenguajes:** Java, Kotlin, Python, TypeScript, JavaScript, C#.
+- **Frameworks y tecnologías:** Spring Boot (APIs REST), Angular, Express (MEAN Stack), HTML, CSS (Bootstrap, Tailwind CSS), .NET MVC.
 - **Bases de Datos:** Relacionales (MariaDB, MySQL), No relacionales (MongoDB, Firebase).
 - **Herramientas y otros:** Docker, Git, GitHub Actions (CI/CD).
 
