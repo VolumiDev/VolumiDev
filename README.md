@@ -14,7 +14,13 @@ Estudié un ciclo superior en **Desarrollo de Aplicaciones Multiplataforma** mie
 ## 🚀 Proyectos destacados
 
 Aquí podrás ver algunos de mis proyectos más interesantes:
-
+- **Nombre del Proyecto: PequeGest**
+  - Aplicación para gestionar la operativa diaria de un centro infantil. Constara de distintos frontales y de una API que será consumida por ellos para la recepción y gestión de la info.
+  - Angular, Spring, Docker, GitHub Actions.
+  - [PequeGest-Backend Spring](https://github.com/VolumiDev/PequeGest-Backend)
+  - [PequeGest-Frontend Angular](https://github.com/VolumiDev/PequeGest-Frontend)
+  - [PequeGest-Deploy](https://github.com/VolumiDev/PequeGest-Deploy)
+    
 <!--
 - **Nombre del Proyecto:**
   - Breve descripción (1-2 frases).
@@ -24,7 +30,7 @@ Aquí podrás ver algunos de mis proyectos más interesantes:
 (Repite este formato para cada proyecto)
 -->
 
-*Pronto actualizaré esta sección con algunos de mis mejores trabajos.*
+*Iré actualizando mis proyectos...*
 
 ## 📫 Contacto
 
