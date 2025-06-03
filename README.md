@@ -31,6 +31,6 @@ Aquí podrás ver algunos de mis proyectos más interesantes:
 Puedes encontrarme y conectar conmigo a través de:
 
 - [LinkedIn](https://www.linkedin.com/in/diego-martga-developer)
-- Correo electrónico: *(inserta tu correo aquí)*
+- Correo electrónico: *diego.dev.martin@gmail.com*
 
 ¡Gracias por visitar mi perfil! 😊
